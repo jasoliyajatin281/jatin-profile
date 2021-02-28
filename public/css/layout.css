@@ -328,6 +328,8 @@ ul#nav li.current a { color: #F06000; }
 #portfolio-wrapper {
    display: flex;
    flex-wrap: wrap;
+   height: 100%;
+   width: 100%;
 }
 
 /* Portfolio Content */

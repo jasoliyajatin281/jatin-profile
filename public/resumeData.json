@@ -126,8 +126,14 @@
       {
         "title": "Spotify with ReactJS",
         "category": "Spotify built with ReactJS",
-        "image": "clothing.png",
-        "url": "https://sai-fashion-3a649.web.app/"
+        "image": "spotify.png",
+        "url": "https://github.com/jasoliyajatin281/spotify-clone"
+      },
+      {
+        "title": "E-Learning Website  ",
+        "category": "E-Learning Website built with HTML5, CSS3, SASS, JS, JQuery ",
+        "image": "elearning.png",
+        "url": "https://github.com/jasoliyajatin281/E-Learning"
       }
     ]
   },
