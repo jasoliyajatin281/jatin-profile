@@ -1,0 +1,147 @@
+{
+  "main": {
+    "name": "Jatin Jasoliya",
+    "occupation": "",
+    "description": "Freelance Developer at Freelance.",
+    "image": "jatin.jpg",
+    "bio": "My name is Jatin, a UI Designera & Full Stack ReactJS Developer.",
+    "bioMsg": "I create Website and write service that are full of innovation and passion",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "jasoliyajatin281@gmail.com",
+    "phone": "+1 9055988862",
+    "address": {
+      "street": "116 Glazebrook Cres.",
+      "city": "Cambridge",
+      "state": "CA",
+      "zip": "N1T2H8"
+    },
+    "website": "",
+    "resumedownload": "Jatin_Jasoliya.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/jaten.jasoliya",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jatin-jasoliya-913605167/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/jatin_jasoliya1707/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/jasoliyajatin281",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Creativity is nothing but the way to solve new problems with all skills you have.",
+    "education": [
+      {
+        "school": "Conestoga College - Cambridge Ontario",
+        "degree": "Post-Graduation, Mobile Solution Development",
+        "graduated": " Aug 2019",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "Gujarat Technological University - India",
+        "degree": "Bachelor's Degree, Computer Science & Engineering",
+        "graduated": " May 2017",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Bigscal Technologies Pvt Ltd.",
+        "title": "Java Dveloper",
+        "years": "May 2017 - Feb 2018",
+        "description": "JAVA based application that displays various inventory and stock management, Technology used Android, JAVA, Firebase Database"
+      },
+      {
+        "company": "Dominant Infotech.",
+        "title": "Internship: PHP developer",
+        "years": "Jan 2017 - April 2017",
+        "description": "Developed a ecommerce website with Material design, Php, JavaScript, AJAX, Bootstrap, MySql database"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "PHP",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Netflix Clone with ReactJS",
+        "category": "Netflix Clone built with ReactJS",
+        "image": "netflix.png",
+        "url": "https://netflic-clone-master.web.app/"
+      },
+      {
+        "title": "Amazon Clone with ReactJS",
+        "category": "Amazon Clone built with ReactJS",
+        "image": "amazon.png",
+        "url": "https://clone-40661.web.app/"
+      },
+      {
+        "title": "Tesla Home Page with ReactJS",
+        "category": "Tesla Home Page built with ReactJS",
+        "image": "tesla.png",
+        "url": "https://tesla-home-jatin.web.app/"
+      },
+      {
+        "title": "Ecommerce Website with ReactJS",
+        "category": "Ecommerce Website built with ReactJS",
+        "image": "clothing.png",
+        "url": "https://sai-fashion-3a649.web.app/"
+      },
+      {
+        "title": "Spotify with ReactJS",
+        "category": "Spotify built with ReactJS",
+        "image": "clothing.png",
+        "url": "https://sai-fashion-3a649.web.app/"
+      }
+    ]
+  },
+
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Naz must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
